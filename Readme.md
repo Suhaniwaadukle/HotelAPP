@@ -52,10 +52,10 @@ Here are some screenshots of the application in action:
 - **E-mail Notifications**![main E-mail](screen-shots/mail.png "Main E-mail")
 
 ## **Acknowledgments**
-This project was developed as part of the **OOP Terminal Project** under the guidance of **Mr Ali Sher Kashif** at **COMSATS University, Sahiwal** for for the **Bachelor of Computer Science** program.  
+This project was developed as part of the **OOP Terminal Project** under the guidance of **Suhani** at **RGPV** for for the **Master of Computer Applications** program.  
 
 ## Contact
 For any questions or support, feel free to reach out:
 
-- **Developer**: Muhammad Safiullah Khan
-- **Email**: m.safi.ullah@outlook.com
+- **Developer**: Suhani Wadukle
+- **Email**: suhaniwadukle@gmail.com
